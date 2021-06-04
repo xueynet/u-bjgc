@@ -3,7 +3,7 @@
 		<view class="cu-bar bg-gradual-orange search">
 			<view class="cu-avatar round" style="background-image:url(../../static/favicon.png);"></view>
 			<view class="content">
-				八戒乡村
+				八戒工程
 			</view>
 			<view class="action">
 				<view class="cu-load load-cuIcon" :class="!isLoad?'loading':'over'"></view>
